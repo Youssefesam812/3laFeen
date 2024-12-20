@@ -1,0 +1,6 @@
+@_3laFeen.API_HostAddress = http://localhost:5125
+
+GET {{_3laFeen.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
